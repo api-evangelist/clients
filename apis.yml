@@ -7,7 +7,7 @@ description: >-
   HTTP libraries, and API testing/consumption tools.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-x-type: topic
+kind: topic
 tags:
   - API Clients
   - Clients
