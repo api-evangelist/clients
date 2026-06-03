@@ -1,0 +1,19 @@
+title: Clients
+description: This is the index of API client, HTTP client, and API consumer tools
+  repos being tracked by the API Evangelist network. The collection includes command-line
+  HTTP clients, GUI desktop and IDE clients, language-native HTTP libraries, and API
+  testing/consumption tools.
+url: https://clients.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

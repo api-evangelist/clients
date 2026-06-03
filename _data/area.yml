@@ -1,0 +1,112 @@
+meta:
+  name: Clients
+  description: This is the index of API client, HTTP client, and API consumer tools
+    repos being tracked by the API Evangelist network. The collection includes command-line
+    HTTP clients, GUI desktop and IDE clients, language-native HTTP libraries, and
+    API testing/consumption tools.
+  tags:
+  - API Clients
+  - Clients
+  - HTTP Clients
+  - HTTP Libraries
+  - REST Clients
+  portal: null
+  github: null
+  repo: clients
+services_tools:
+- name: API Dash
+  repo: https://github.com/api-evangelist/api-dash
+  apisio: https://providers.apis.io/providers/api-dash/
+- name: Axios
+  repo: https://github.com/api-evangelist/axios
+  apisio: https://providers.apis.io/providers/axios/
+- name: Bruno
+  repo: https://github.com/api-evangelist/bruno
+  apisio: https://providers.apis.io/providers/bruno/
+- name: cURL
+  repo: https://github.com/api-evangelist/curl
+  apisio: https://providers.apis.io/providers/curl/
+- name: Curlie
+  repo: https://github.com/api-evangelist/curlie
+  apisio: https://providers.apis.io/providers/curlie/
+- name: ezy
+  repo: https://github.com/api-evangelist/ezy
+  apisio: https://providers.apis.io/providers/ezy/
+- name: Firecamp
+  repo: https://github.com/api-evangelist/firecamp
+  apisio: https://providers.apis.io/providers/firecamp/
+- name: Got
+  repo: https://github.com/api-evangelist/got
+  apisio: https://providers.apis.io/providers/got/
+- name: gRPCurl
+  repo: https://github.com/api-evangelist/grpcurl
+  apisio: https://providers.apis.io/providers/grpcurl/
+- name: Hoppscotch
+  repo: https://github.com/api-evangelist/hoppscotch
+  apisio: https://providers.apis.io/providers/hoppscotch/
+- name: HTTP Client
+  repo: https://github.com/api-evangelist/http-client
+  apisio: https://providers.apis.io/providers/http-client/
+- name: HTTPie
+  repo: https://github.com/api-evangelist/httpie
+  apisio: https://providers.apis.io/providers/httpie/
+- name: HTTPX
+  repo: https://github.com/api-evangelist/httpx
+  apisio: https://providers.apis.io/providers/httpx/
+- name: Insomnia
+  repo: https://github.com/api-evangelist/insomnia
+  apisio: https://providers.apis.io/providers/insomnia/
+- name: Kreya
+  repo: https://github.com/api-evangelist/kreya
+  apisio: https://providers.apis.io/providers/kreya/
+- name: Milkman
+  repo: https://github.com/api-evangelist/milkman
+  apisio: https://providers.apis.io/providers/milkman/
+- name: Nightingale
+  repo: https://github.com/api-evangelist/nightingale
+  apisio: https://providers.apis.io/providers/nightingale/
+- name: node-fetch
+  repo: https://github.com/api-evangelist/node-fetch
+  apisio: https://providers.apis.io/providers/node-fetch/
+- name: OkHttp
+  repo: https://github.com/api-evangelist/okhttp
+  apisio: https://providers.apis.io/providers/okhttp/
+- name: Paw
+  repo: https://github.com/api-evangelist/paw
+  apisio: https://providers.apis.io/providers/paw/
+- name: Postman
+  repo: https://github.com/api-evangelist/postman
+  apisio: https://providers.apis.io/providers/postman/
+- name: ReqBin
+  repo: https://github.com/api-evangelist/reqbin
+  apisio: https://providers.apis.io/providers/reqbin/
+- name: Requests
+  repo: https://github.com/api-evangelist/requests
+  apisio: https://providers.apis.io/providers/requests/
+- name: REST Client
+  repo: https://github.com/api-evangelist/rest-client
+  apisio: https://providers.apis.io/providers/rest-client/
+- name: Restfox
+  repo: https://github.com/api-evangelist/restfox
+  apisio: https://providers.apis.io/providers/restfox/
+- name: RestSharp
+  repo: https://github.com/api-evangelist/restsharp
+  apisio: https://providers.apis.io/providers/restsharp/
+- name: Retrofit
+  repo: https://github.com/api-evangelist/retrofit
+  apisio: https://providers.apis.io/providers/retrofit/
+- name: Thunder Client
+  repo: https://github.com/api-evangelist/thunder-client
+  apisio: https://providers.apis.io/providers/thunder-client/
+- name: Wget
+  repo: https://github.com/api-evangelist/wget
+  apisio: https://providers.apis.io/providers/wget/
+- name: xh
+  repo: https://github.com/api-evangelist/xh
+  apisio: https://providers.apis.io/providers/xh/
+- name: Yaak
+  repo: https://github.com/api-evangelist/yaak
+  apisio: https://providers.apis.io/providers/yaak/
+features: []
+use_cases: []
+integrations: []
