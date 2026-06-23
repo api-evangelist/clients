@@ -1,6 +1,6 @@
 ---
-title: What is Streamable HTTP in MCP?
-link: https://glama.ai/blog/2026-01-02-what-is-streamable-http-in-mcp
+title: How to Test MCP Streamable HTTP Endpoints Using cURL
+link: https://glama.ai/blog/2026-01-02-how-to-test-mcp-streamable-http-endpoints-using-c-url
 published: '2026-01-02'
 provider: glama
 repo: https://github.com/api-evangelist/glama
