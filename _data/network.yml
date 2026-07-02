@@ -1,0 +1,21 @@
+related:
+- name: API Clients
+  url: https://api-clients.apievangelist.com
+  icon: https://api-clients.apievangelist.com/icon.png
+  description: An index and topic collection covering API clients, the developer tools used to inspect,
+    debug, exercise, and document APIs interactively. API clients include desktop and web…
+- name: SDKs
+  url: https://sdk.apievangelist.com
+  icon: https://sdk.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for generating API SDKs,
+    client libraries, and code from API specifications. This collection covers SDK generation…
+- name: Command Line Interface
+  url: https://cli.apievangelist.com
+  icon: https://cli.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API command line interfaces,
+    HTTP clients, and terminal-based API tools. This collection covers HTTP clients,…
+- name: API Proxies
+  url: https://api-proxies.apievangelist.com
+  icon: https://api-proxies.apievangelist.com/icon.png
+  description: An index and topic collection covering reverse-proxy and edge-proxy software used in front
+    of APIs, including HTTP reverse proxies, edge proxies, load balancers, caching proxies,…
