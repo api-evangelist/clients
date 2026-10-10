@@ -5,7 +5,7 @@ meta:
     HTTP clients, GUI desktop and IDE clients, language-native HTTP libraries, and
     API testing/consumption tools.
   tags:
-  - API Clients
+  - API Client
   - Clients
   - HTTP Clients
   - HTTP Libraries
